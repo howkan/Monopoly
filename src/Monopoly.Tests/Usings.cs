@@ -1,0 +1,9 @@
+global using Monopoly.Application.Factories;
+global using Monopoly.Application.Services;
+global using Monopoly.Domain.Contracts.Factories;
+global using Monopoly.Domain.Contracts.Repositories;
+global using Monopoly.Domain.Models;
+global using Monopoly.Infrastructure.Repositories;
+global using Monopoly.Tests.Mocks;
+global using Moq;
+global using Xunit;
